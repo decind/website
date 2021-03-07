@@ -20,7 +20,7 @@ body {
   background-image: url("../img/background.png");
   background-color: #04215c;
   background-repeat: repeat-x;
-  background-size: contain;
+  background-size: cover;
   background-position: left 50% top 0%;
 }
 
